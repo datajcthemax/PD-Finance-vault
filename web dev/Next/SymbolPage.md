@@ -1,4 +1,4 @@
-```React
+```javascript
 //app/[company]/page.js
 
 "use client";
