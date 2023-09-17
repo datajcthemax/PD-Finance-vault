@@ -1,6 +1,12 @@
 {
 	"nodes":[
-		{"id":"57dce81dc48e1087","x":-180,"y":-180,"width":400,"height":400,"type":"file","file":"pd/web dev/Next/Next.js.md"}
+		{"id":"57dce81dc48e1087","type":"file","file":"pd/web dev/Next/Next.js.md","x":-100,"y":-360,"width":340,"height":240},
+		{"id":"2e1c6343e3397e9d","type":"text","text":"![[Pasted image 20230917124211.png]]","x":-760,"y":-40,"width":360,"height":620},
+		{"id":"28f514bd35cb5abc","x":-130,"y":70,"width":400,"height":400,"type":"file","file":"pd/web dev/Next/Home.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"392b73d767c7b8ef","fromNode":"57dce81dc48e1087","fromSide":"bottom","toNode":"28f514bd35cb5abc","toSide":"top"},
+		{"id":"5adcf47d98031543","fromNode":"57dce81dc48e1087","fromSide":"left","toNode":"2e1c6343e3397e9d","toSide":"top"},
+		{"id":"212b4e73ca811e1a","fromNode":"2e1c6343e3397e9d","fromSide":"right","toNode":"28f514bd35cb5abc","toSide":"left"}
+	]
 }
