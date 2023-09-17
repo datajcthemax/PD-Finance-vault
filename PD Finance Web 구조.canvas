@@ -2,11 +2,19 @@
 	"nodes":[
 		{"id":"57dce81dc48e1087","type":"file","file":"pd/web dev/Next/Next.js.md","x":-100,"y":-360,"width":340,"height":240},
 		{"id":"2e1c6343e3397e9d","type":"text","text":"![[Pasted image 20230917124211.png]]","x":-760,"y":-40,"width":360,"height":620},
-		{"id":"28f514bd35cb5abc","x":-130,"y":70,"width":400,"height":400,"type":"file","file":"pd/web dev/Next/Home.md"}
+		{"id":"28f514bd35cb5abc","type":"file","file":"pd/web dev/Next/Home.md","x":-130,"y":70,"width":400,"height":400},
+		{"id":"f4e9cae94642deed","type":"file","file":"pd/web dev/Next/SymbolPage.md","x":460,"y":70,"width":400,"height":400},
+		{"id":"896513274f5ca96c","type":"file","file":"pd/web dev/Next/React/컴포넌트.md","x":-1200,"y":800,"width":400,"height":400},
+		{"id":"87655f1b06680538","x":-400,"y":800,"width":400,"height":400,"type":"file","file":"pd/web dev/Next/api파일들.md"},
+		{"id":"ca439ce3926c82ad","x":-2040,"y":180,"width":400,"height":400,"type":"file","file":"pd/web dev/Next/StockDashboard.md"}
 	],
 	"edges":[
 		{"id":"392b73d767c7b8ef","fromNode":"57dce81dc48e1087","fromSide":"bottom","toNode":"28f514bd35cb5abc","toSide":"top"},
 		{"id":"5adcf47d98031543","fromNode":"57dce81dc48e1087","fromSide":"left","toNode":"2e1c6343e3397e9d","toSide":"top"},
-		{"id":"212b4e73ca811e1a","fromNode":"2e1c6343e3397e9d","fromSide":"right","toNode":"28f514bd35cb5abc","toSide":"left"}
+		{"id":"212b4e73ca811e1a","fromNode":"2e1c6343e3397e9d","fromSide":"right","toNode":"28f514bd35cb5abc","toSide":"left"},
+		{"id":"a57c2f45ef83160e","fromNode":"28f514bd35cb5abc","fromSide":"right","toNode":"f4e9cae94642deed","toSide":"left"},
+		{"id":"3125242ba3451f77","fromNode":"2e1c6343e3397e9d","fromSide":"bottom","toNode":"896513274f5ca96c","toSide":"top"},
+		{"id":"fdce6146d069e3ca","fromNode":"2e1c6343e3397e9d","fromSide":"bottom","toNode":"87655f1b06680538","toSide":"top"},
+		{"id":"0091bab5a9e54ccc","fromNode":"896513274f5ca96c","fromSide":"left","toNode":"ca439ce3926c82ad","toSide":"right"}
 	]
 }
