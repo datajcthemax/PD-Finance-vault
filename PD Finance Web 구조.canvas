@@ -5,8 +5,19 @@
 		{"id":"28f514bd35cb5abc","type":"file","file":"pd/web dev/Next/Home.md","x":-130,"y":70,"width":400,"height":400},
 		{"id":"f4e9cae94642deed","type":"file","file":"pd/web dev/Next/SymbolPage.md","x":460,"y":70,"width":400,"height":400},
 		{"id":"896513274f5ca96c","type":"file","file":"pd/web dev/Next/React/컴포넌트.md","x":-1200,"y":800,"width":400,"height":400},
-		{"id":"87655f1b06680538","x":-400,"y":800,"width":400,"height":400,"type":"file","file":"pd/web dev/Next/api파일들.md"},
-		{"id":"ca439ce3926c82ad","x":-2040,"y":180,"width":400,"height":400,"type":"file","file":"pd/web dev/Next/StockDashboard.md"}
+		{"id":"87655f1b06680538","type":"file","file":"pd/web dev/Next/API/api파일들.md","x":-400,"y":800,"width":400,"height":400},
+		{"id":"a5b681012f472205","type":"file","file":"pd/web dev/Next/components/BalanceSheet.md","x":-2040,"y":800,"width":400,"height":400},
+		{"id":"2e08891f76ea1c90","type":"file","file":"pd/web dev/Next/components/CompanyInfo.md","x":-2040,"y":1320,"width":400,"height":400},
+		{"id":"3dcdc9e44caf2681","type":"file","file":"pd/web dev/Next/components/NewsArticles.md","x":-2040,"y":1805,"width":400,"height":400},
+		{"id":"8d86fcbb1d7385a5","type":"file","file":"pd/web dev/Next/components/SearchBar.md","x":-2040,"y":2320,"width":400,"height":400},
+		{"id":"ca439ce3926c82ad","type":"file","file":"pd/web dev/Next/components/StockDashboard.md","x":-2040,"y":270,"width":400,"height":400},
+		{"id":"c3dc5254ee54dbdc","type":"file","file":"pd/web dev/Next/components/StockChart.md","x":-2040,"y":-240,"width":400,"height":400},
+		{"id":"4583c662d2522748","x":-980,"y":1405,"width":400,"height":400,"type":"file","file":"pd/web dev/Next/API/bs.md"},
+		{"id":"edc8b680a3a841d2","type":"file","file":"pd/web dev/Next/API/fetchData.md","x":-400,"y":1405,"width":400,"height":400},
+		{"id":"1e6f7decaa9ac660","x":160,"y":1405,"width":400,"height":400,"type":"file","file":"pd/web dev/Next/API/stocks.md"},
+		{"id":"58c227664328a515","x":720,"y":1405,"width":400,"height":400,"type":"file","file":"pd/web dev/Next/API/currents.md"},
+		{"id":"3ad469ae1238bb16","x":1280,"y":1405,"width":400,"height":400,"type":"file","file":"pd/web dev/Next/API/companyInfo.md"},
+		{"id":"21373df2597c2275","x":1840,"y":1405,"width":400,"height":400,"type":"file","file":"pd/web dev/Next/API/chart.md"}
 	],
 	"edges":[
 		{"id":"392b73d767c7b8ef","fromNode":"57dce81dc48e1087","fromSide":"bottom","toNode":"28f514bd35cb5abc","toSide":"top"},
@@ -15,6 +26,17 @@
 		{"id":"a57c2f45ef83160e","fromNode":"28f514bd35cb5abc","fromSide":"right","toNode":"f4e9cae94642deed","toSide":"left"},
 		{"id":"3125242ba3451f77","fromNode":"2e1c6343e3397e9d","fromSide":"bottom","toNode":"896513274f5ca96c","toSide":"top"},
 		{"id":"fdce6146d069e3ca","fromNode":"2e1c6343e3397e9d","fromSide":"bottom","toNode":"87655f1b06680538","toSide":"top"},
-		{"id":"0091bab5a9e54ccc","fromNode":"896513274f5ca96c","fromSide":"left","toNode":"ca439ce3926c82ad","toSide":"right"}
+		{"id":"0091bab5a9e54ccc","fromNode":"896513274f5ca96c","fromSide":"left","toNode":"ca439ce3926c82ad","toSide":"right"},
+		{"id":"8e5e569136095510","fromNode":"896513274f5ca96c","fromSide":"left","toNode":"a5b681012f472205","toSide":"right"},
+		{"id":"d28a4ea2599d48d4","fromNode":"896513274f5ca96c","fromSide":"left","toNode":"2e08891f76ea1c90","toSide":"right"},
+		{"id":"fe594498763e47f5","fromNode":"896513274f5ca96c","fromSide":"left","toNode":"c3dc5254ee54dbdc","toSide":"right"},
+		{"id":"a33e3508cf234108","fromNode":"896513274f5ca96c","fromSide":"left","toNode":"3dcdc9e44caf2681","toSide":"right"},
+		{"id":"5d28b99005b95ba0","fromNode":"896513274f5ca96c","fromSide":"left","toNode":"8d86fcbb1d7385a5","toSide":"right"},
+		{"id":"f529a2a76752b4e0","fromNode":"87655f1b06680538","fromSide":"bottom","toNode":"4583c662d2522748","toSide":"top"},
+		{"id":"7b7a457e9ea08f54","fromNode":"87655f1b06680538","fromSide":"bottom","toNode":"edc8b680a3a841d2","toSide":"top"},
+		{"id":"f20977b8030cf7b5","fromNode":"87655f1b06680538","fromSide":"bottom","toNode":"1e6f7decaa9ac660","toSide":"top"},
+		{"id":"15a84502be6519c6","fromNode":"87655f1b06680538","fromSide":"bottom","toNode":"58c227664328a515","toSide":"top"},
+		{"id":"1416930b403bd7c8","fromNode":"87655f1b06680538","fromSide":"bottom","toNode":"3ad469ae1238bb16","toSide":"top"},
+		{"id":"8375bfae33d165e2","fromNode":"87655f1b06680538","fromSide":"bottom","toNode":"21373df2597c2275","toSide":"top"}
 	]
 }

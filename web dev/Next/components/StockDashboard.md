@@ -1,4 +1,4 @@
-```React
+```javascript
 //app/components/StockDashboard.js
 
 import { useEffect, useState } from 'react';
